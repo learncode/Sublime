@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SublimeDal.Core", "SublimeDal.Core\SublimeDal.Core.csproj", "{4BA3DC0F-8388-4DA2-B01B-C5140794C4C2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{03000ABA-3D1C-4822-AFCE-0C1D26E0DA0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SublimeDal.Tests", "SublimeDal.Tests\SublimeDal.Tests.csproj", "{52700D3E-7CC1-462B-80FC-D846204DFC42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SublimeDal.Library", "SublimeDal.Library\SublimeDal.Library.csproj", "{CA143A6E-AD75-45A5-B57F-070153453EE7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Console", "Console", "{F0E5B095-81A6-49DA-9B36-1F757694E8C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SublimeDal.Console", "SublimeDal.Console\SublimeDal.Console.csproj", "{B7F462E8-29E2-449C-9695-6D5B78C6AABB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BA3DC0F-8388-4DA2-B01B-C5140794C4C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BA3DC0F-8388-4DA2-B01B-C5140794C4C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BA3DC0F-8388-4DA2-B01B-C5140794C4C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BA3DC0F-8388-4DA2-B01B-C5140794C4C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52700D3E-7CC1-462B-80FC-D846204DFC42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52700D3E-7CC1-462B-80FC-D846204DFC42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52700D3E-7CC1-462B-80FC-D846204DFC42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52700D3E-7CC1-462B-80FC-D846204DFC42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA143A6E-AD75-45A5-B57F-070153453EE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA143A6E-AD75-45A5-B57F-070153453EE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA143A6E-AD75-45A5-B57F-070153453EE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA143A6E-AD75-45A5-B57F-070153453EE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7F462E8-29E2-449C-9695-6D5B78C6AABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F462E8-29E2-449C-9695-6D5B78C6AABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F462E8-29E2-449C-9695-6D5B78C6AABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F462E8-29E2-449C-9695-6D5B78C6AABB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{52700D3E-7CC1-462B-80FC-D846204DFC42} = {03000ABA-3D1C-4822-AFCE-0C1D26E0DA0D}
+		{B7F462E8-29E2-449C-9695-6D5B78C6AABB} = {F0E5B095-81A6-49DA-9B36-1F757694E8C9}
+	EndGlobalSection
+EndGlobal

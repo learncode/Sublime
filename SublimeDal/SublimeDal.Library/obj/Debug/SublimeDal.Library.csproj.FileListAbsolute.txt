@@ -1,0 +1,9 @@
+C:\Users\chaitanya\Documents\Code\C#\SublimeDal\SublimeDal.Library\bin\Debug\SublimeDal.Library.dll
+C:\Users\chaitanya\Documents\Code\C#\SublimeDal\SublimeDal.Library\bin\Debug\SublimeDal.Library.pdb
+C:\Users\chaitanya\Documents\Code\C#\SublimeDal\SublimeDal.Library\obj\Debug\SublimeDal.Library.dll
+C:\Users\chaitanya\Documents\Code\C#\SublimeDal\SublimeDal.Library\obj\Debug\SublimeDal.Library.pdb
+C:\Code\SublimeDal\SublimeDal.Library\bin\Debug\SublimeDal.Library.dll
+C:\Code\SublimeDal\SublimeDal.Library\bin\Debug\SublimeDal.Library.pdb
+C:\Code\SublimeDal\SublimeDal.Library\obj\Debug\SublimeDal.Library.dll
+C:\Code\SublimeDal\SublimeDal.Library\obj\Debug\SublimeDal.Library.pdb
+C:\Code\SublimeDal\SublimeDal.Library\obj\Debug\SublimeDal.Library.csprojResolveAssemblyReference.cache

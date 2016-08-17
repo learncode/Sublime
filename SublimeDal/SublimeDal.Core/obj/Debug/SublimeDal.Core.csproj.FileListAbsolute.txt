@@ -1,0 +1,14 @@
+C:\Users\chaitanya\Documents\Code\C#\SublimeDal\SublimeDal.Core\bin\Debug\SublimeDal.Core.dll
+C:\Users\chaitanya\Documents\Code\C#\SublimeDal\SublimeDal.Core\bin\Debug\SublimeDal.Core.pdb
+C:\Users\chaitanya\Documents\Code\C#\SublimeDal\SublimeDal.Core\bin\Debug\SublimeDal.Library.dll
+C:\Users\chaitanya\Documents\Code\C#\SublimeDal\SublimeDal.Core\bin\Debug\SublimeDal.Library.pdb
+C:\Users\chaitanya\Documents\Code\C#\SublimeDal\SublimeDal.Core\obj\Debug\SublimeDal.Core.csprojResolveAssemblyReference.cache
+C:\Users\chaitanya\Documents\Code\C#\SublimeDal\SublimeDal.Core\obj\Debug\SublimeDal.Core.dll
+C:\Users\chaitanya\Documents\Code\C#\SublimeDal\SublimeDal.Core\obj\Debug\SublimeDal.Core.pdb
+C:\Code\SublimeDal\SublimeDal.Core\bin\Debug\SublimeDal.Core.dll
+C:\Code\SublimeDal\SublimeDal.Core\bin\Debug\SublimeDal.Core.pdb
+C:\Code\SublimeDal\SublimeDal.Core\bin\Debug\SublimeDal.Library.dll
+C:\Code\SublimeDal\SublimeDal.Core\bin\Debug\SublimeDal.Library.pdb
+C:\Code\SublimeDal\SublimeDal.Core\obj\Debug\SublimeDal.Core.csprojResolveAssemblyReference.cache
+C:\Code\SublimeDal\SublimeDal.Core\obj\Debug\SublimeDal.Core.dll
+C:\Code\SublimeDal\SublimeDal.Core\obj\Debug\SublimeDal.Core.pdb
