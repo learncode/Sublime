@@ -8,3 +8,13 @@ C:\Code\SublimeDal\SublimeDal.Console\bin\Debug\SublimeDal.Library.pdb
 C:\Code\SublimeDal\SublimeDal.Console\obj\Debug\SublimeDal.Console.csprojResolveAssemblyReference.cache
 C:\Code\SublimeDal\SublimeDal.Console\obj\Debug\SublimeDal.Console.exe
 C:\Code\SublimeDal\SublimeDal.Console\obj\Debug\SublimeDal.Console.pdb
+C:\Code\Sublime\SublimeDal\SublimeDal.Console\bin\Debug\SublimeDal.Console.exe.config
+C:\Code\Sublime\SublimeDal\SublimeDal.Console\bin\Debug\SublimeDal.Console.exe
+C:\Code\Sublime\SublimeDal\SublimeDal.Console\bin\Debug\SublimeDal.Console.pdb
+C:\Code\Sublime\SublimeDal\SublimeDal.Console\bin\Debug\SublimeDal.Core.dll
+C:\Code\Sublime\SublimeDal\SublimeDal.Console\bin\Debug\SublimeDal.Library.dll
+C:\Code\Sublime\SublimeDal\SublimeDal.Console\bin\Debug\SublimeDal.Core.pdb
+C:\Code\Sublime\SublimeDal\SublimeDal.Console\bin\Debug\SublimeDal.Library.pdb
+C:\Code\Sublime\SublimeDal\SublimeDal.Console\obj\Debug\SublimeDal.Console.csprojResolveAssemblyReference.cache
+C:\Code\Sublime\SublimeDal\SublimeDal.Console\obj\Debug\SublimeDal.Console.exe
+C:\Code\Sublime\SublimeDal\SublimeDal.Console\obj\Debug\SublimeDal.Console.pdb

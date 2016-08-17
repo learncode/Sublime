@@ -7,3 +7,8 @@ C:\Code\SublimeDal\SublimeDal.Library\bin\Debug\SublimeDal.Library.pdb
 C:\Code\SublimeDal\SublimeDal.Library\obj\Debug\SublimeDal.Library.dll
 C:\Code\SublimeDal\SublimeDal.Library\obj\Debug\SublimeDal.Library.pdb
 C:\Code\SublimeDal\SublimeDal.Library\obj\Debug\SublimeDal.Library.csprojResolveAssemblyReference.cache
+C:\Code\Sublime\SublimeDal\SublimeDal.Library\bin\Debug\SublimeDal.Library.dll
+C:\Code\Sublime\SublimeDal\SublimeDal.Library\bin\Debug\SublimeDal.Library.pdb
+C:\Code\Sublime\SublimeDal\SublimeDal.Library\obj\Debug\SublimeDal.Library.dll
+C:\Code\Sublime\SublimeDal\SublimeDal.Library\obj\Debug\SublimeDal.Library.pdb
+C:\Code\Sublime\SublimeDal\SublimeDal.Library\obj\Debug\SublimeDal.Library.csprojResolveAssemblyReference.cache

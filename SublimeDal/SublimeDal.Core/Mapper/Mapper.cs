@@ -23,17 +23,26 @@ namespace SublimeDal.Library {
       }
 
       static object MassageValue(object o, Type t) {
-         if (t == typeof(string)) {
-            return o == DBNull.Value ? string.Empty : o;
+         if (t == typeof(int)) {
+            return o == DBNull.Value ? default(int) : o;
          }
 
-         if (t == typeof(int)) {
-            return o == DBNull.Value ? 0 : o;
+         if(t == typeof(decimal)) {
+            return o == DBNull.Value ? default(decimal) : o;
          }
 
          if (t == typeof(DateTime)) {
-            return o == DBNull.Value ? null : o;
+            return o == DBNull.Value ? default(DateTime) : o;
          }
+
+         if (t == typeof(double)) {
+            return o == DBNull.Value ? default(double) : o;
+         }
+
+         if (t == typeof(string)) {
+            return o == DBNull.Value ? default(string) : o;
+         }
+
          return o;
       }
    }

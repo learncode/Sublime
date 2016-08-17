@@ -45,6 +45,8 @@
     <Compile Include="Context\ConnectionStringProvider.cs" />
     <Compile Include="Context\DbContext.cs" />
     <Compile Include="Entities\ConnectionStringEntity.cs" />
+    <Compile Include="Mapper\Column.cs" />
+    <Compile Include="Mapper\Mapper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
