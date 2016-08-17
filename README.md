@@ -1,5 +1,5 @@
 # Sublime
-SublimeDAL is a lightwieght C# based ORM. It's inspired by Dapper. I'm building this as an exercise to learn how a production quality ORM needs to be built and also the performance criteria that needs to be considered. Reiterating, eventually the end goal is to learn how to design a functional ORM. 
+SublimeDAL is a lightwieght C# based ORM. It's inspired by Dapper. I'm building this as an exercise to learn.
 
 ##Support
    ```
