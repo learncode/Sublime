@@ -69,9 +69,5 @@ namespace SublimeDal.Core.Context {
             _adapter = null;
          }
       }
-
-      ~ConnectionProvider() {
-         CloseConnection();
-      }
    }
 }

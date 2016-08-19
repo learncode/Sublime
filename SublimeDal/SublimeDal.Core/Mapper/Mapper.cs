@@ -14,36 +14,12 @@ namespace SublimeDal.Library {
                var column = (Column)propertyInfo.GetCustomAttribute(typeof(Column));
                if (column == null)
                   continue;
-               propertyInfo.SetValue(obj, MassageValue(row[column.Name], propertyInfo.PropertyType));
+               propertyInfo.SetValue(obj, row[column.Name] == DBNull.Value ? null : row[column.Name]);
             }
             entities.Add(obj);
          }
 
          return entities;
-      }
-
-      static object MassageValue(object o, Type t) {
-         if (t == typeof(int)) {
-            return o == DBNull.Value ? default(int) : o;
-         }
-
-         if(t == typeof(decimal)) {
-            return o == DBNull.Value ? default(decimal) : o;
-         }
-
-         if (t == typeof(DateTime)) {
-            return o == DBNull.Value ? default(DateTime) : o;
-         }
-
-         if (t == typeof(double)) {
-            return o == DBNull.Value ? default(double) : o;
-         }
-
-         if (t == typeof(string)) {
-            return o == DBNull.Value ? default(string) : o;
-         }
-
-         return o;
       }
    }
 }
