@@ -60,3 +60,7 @@ SublimeDAL is a lightwieght C# based ORM. It's inspired by Dapper. I'm building 
    ```
    * Cannot perform multiple inserts.
    ```
+##License
+   ```
+   [MIT-License](http://choosealicense.com/licenses/mit/)
+   ```
